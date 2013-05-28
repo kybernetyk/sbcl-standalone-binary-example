@@ -4,6 +4,8 @@ Take a look at build.sh and buildscript.lisp ...
 
 This particular little application will fetch the current IP from http://icanhazip.com and print it to std out.
 
+Dependencies: quicklisp and sbcl
+
 License GPL3, Leon Szpilewski
 
 How to load if quicklisp doesn't find the project?
